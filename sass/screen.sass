@@ -1,0 +1,126 @@
+/*
+  Welcome to Compass.
+  In this file you should write your main styles. (or centralize your imports)
+  Import this file using the following HTML or equivalent:
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+@import compass/reset
+@import compass
+@import _mixins
+@import _type
+@import _colors
+@import _portfolio
+
+$hero-size: 37.5em //600px
+
+.fullWidth 
+	width: 100%
+	margin-left: auto
+	margin-right: auto
+	max-width: initial
+
+.margin-y
+	margin: 1em 0
+
+.margin-top
+	margin-top: 1em
+
+.margin-top-2
+	margin-top: 2em
+
+.margin-bottom
+	margin-bottom: 1em
+
+.margin-bottom-2
+	margin-bottom: 2em
+
+.margin-bottom-half
+	margin-bottom: .5em
+
+.pad-x
+	padding: 0 1em
+
+.pad-y
+	padding: 1em 0
+
+.pad
+	padding: 1em
+
+.pad-bottom
+	padding-bottom: 1em
+
+.pad-bottom-2
+	padding-bottom: 2em
+
+.pad-top-none
+	padding-top: 0em
+
+html
+	font-family: 'Roboto'
+
+.center
+
+	text-align: center
+
+
+.white-button
+
+	margin-bottom: 1em
+	padding: 1em
+	font-size: 1em
+	+border-radius(1px)
+	background-color: rgba(white,.32)
+	border: 1px solid white
+	color: white
+	&:hover
+		background-color: rgba(255,255,255, .72)
+		color: $blue
+
+.blue-button
+	@extend .white-button
+	background-color: rgba($blue,.8)
+	border: none
+
+.full-width-button
+	width: 100%
+
+#contact-body
+
+	height: 10em
+
+#button-wrapper
+
+	width: 20em //320px
+	margin: 0 auto
+	button
+		width: 100%
+		+clearfix
+		float: left
+		clear: both
+
+#hero-container
+
+	height: $hero-size
+	position: relative
+	overflow: hidden
+	h1
+		margin-top: 1em
+	h2
+		margin: .5em 0 .8em 0
+	button
+		margin: .32em 0
+
+#video
+	
+	position: absolute
+	top: 0
+	right: -32%
+	z-index: -1
+	min-width: 132%
+	min-height: 100%
+	display: block
+
+.overlay
+	+overlay (.32)
+
+

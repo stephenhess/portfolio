@@ -1,0 +1,65 @@
+.display-4 {
+  font-size: 7em;
+  color: rgba(0, 0, 0, 0.54);
+  font-weight: 300; }
+
+.display-3 {
+  font-size: 3.5em;
+  color: rgba(0, 0, 0, 0.54);
+  font-weight: 300; }
+
+.display-2 {
+  font-size: 2.8125em;
+  line-height: 48px;
+  color: rgba(0, 0, 0, 0.54);
+  font-weight: 300; }
+
+.display-1 {
+  font-size: 2.125em;
+  line-height: 40px;
+  color: rgba(0, 0, 0, 0.54);
+  font-weight: 300; }
+
+.headline {
+  font-size: 1.5em;
+  line-height: 32px;
+  color: rgba(0, 0, 0, 0.87);
+  font-weight: 300; }
+
+.title {
+  font-size: 1.25em;
+  color: rgba(0, 0, 0, 0.87);
+  font-weight: 500; }
+
+.subhead-1 {
+  font-size: 1em;
+  line-height: 28px;
+  color: rgba(0, 0, 0, 0.87);
+  font-weight: 300; }
+
+.subhead-2 {
+  font-size: 1em;
+  line-height: 28px;
+  color: rgba(0, 0, 0, 0.87);
+  font-weight: 300; }
+
+.body-1 {
+  font-size: 0.875em;
+  line-height: 20px;
+  color: rgba(0, 0, 0, 0.87);
+  font-weight: 300; }
+
+.body-2 {
+  font-size: 0.875em;
+  line-height: 20px;
+  color: rgba(0, 0, 0, 0.87);
+  font-weight: 500; }
+
+.caption {
+  font-size: 0.75em;
+  color: rgba(0, 0, 0, 0.54);
+  font-weight: 300; }
+
+.white {
+  color: white;
+  font-weight: 500; }
