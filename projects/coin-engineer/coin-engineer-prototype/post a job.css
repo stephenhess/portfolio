@@ -1,0 +1,1381 @@
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 90%;
+    background-color: rgb(237, 237, 237);
+    max-width: 690px;
+}
+
+body {
+    font-family: actor;
+    font-weight: 100;
+    background-color: rgb(237, 237, 237);
+}
+
+#text1 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 400;
+    line-height: 1em;
+    margin-left: 0%;
+    margin-top: 21px;
+    clear: both;
+    min-height: 0px;
+    font-family: quicksand;
+    color: rgb(96, 96, 96);
+    margin-right: 0px;
+    margin-bottom: 0px;
+    display: block;
+}
+
+#input:hover {
+    background-color: rgba(255, 255, 255, 0.219608);
+}
+
+#box1 {
+    float: left;
+    height: 72px;
+    clear: none;
+    width: 100%;
+    margin-top: 0px;
+    margin-left: 0%;
+    margin-right: 0%;
+    border-bottom-color: rgb(106, 146, 187);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
+
+#input {
+    float: right;
+    height: 32px;
+    font-size: 0.8em;
+    margin-left: 0px;
+    margin-top: 20px;
+    clear: none;
+    width: 100px;
+    margin-right: 5.996696%;
+    border-top-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+    border-left-color: rgb(255, 255, 255);
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    color: rgb(255, 255, 255);
+    font-family: quicksand;
+    margin-bottom: 0px;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+#box {
+    float: left;
+    height: 72px;
+    margin-left: -5.981278%;
+    margin-top: 0px;
+    clear: none;
+    width: 111.995211%;
+    border-bottom-color: rgb(106, 146, 187);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    background-image:-webkit-linear-gradient(104deg, rgb(132, 137, 215) 0%, rgb(106, 146, 187) 37%, rgb(126, 212, 212) 100%);
+    background-image: linear-gradient(346deg, rgb(132, 137, 215) 0%, rgb(106, 146, 187) 37%, rgb(126, 212, 212) 100%);
+    background-position: 0% 0%;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    -webkit-background-size: auto;
+    background-size: auto;
+}
+
+#image {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    visibility: hidden;
+    position: absolute;
+}
+
+#Post_my_job:hover {
+    background-color: rgba(255, 180, 105, 0.219608);
+}
+
+#Post_my_job:active {
+    background-color: rgb(255, 255, 255);
+}
+
+#textinput:focus {
+    border-top-color: rgb(251, 182, 136);
+    border-right-color: rgb(251, 182, 136);
+    border-bottom-color: rgb(251, 182, 136);
+    border-left-color: rgb(251, 182, 136);
+}
+
+#textinput1:focus {
+    border-top-color: rgb(251, 182, 136);
+    border-right-color: rgb(251, 182, 136);
+    border-bottom-color: rgb(251, 182, 136);
+    border-left-color: rgb(251, 182, 136);
+}
+
+#textinput5:focus {
+    border-top-color: rgb(251, 182, 136);
+    border-right-color: rgb(251, 182, 136);
+    border-bottom-color: rgb(251, 182, 136);
+    border-left-color: rgb(251, 182, 136);
+}
+
+#textinput2:focus {
+    border-top-color: rgb(251, 182, 136);
+    border-right-color: rgb(251, 182, 136);
+    border-bottom-color: rgb(251, 182, 136);
+    border-left-color: rgb(251, 182, 136);
+}
+
+#textinput3:focus {
+    border-top-color: rgb(251, 182, 136);
+    border-right-color: rgb(251, 182, 136);
+    border-bottom-color: rgb(251, 182, 136);
+    border-left-color: rgb(251, 182, 136);
+}
+
+#textinput4:focus {
+    border-top-color: rgb(251, 182, 136);
+    border-right-color: rgb(251, 182, 136);
+    border-bottom-color: rgb(251, 182, 136);
+    border-left-color: rgb(251, 182, 136);
+}
+
+#box2 {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 21px;
+    clear: both;
+    width: 100%;
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+    border-bottom-right-radius: 1px;
+    border-bottom-left-radius: 1px;
+    padding-top: 20px;
+    padding-right: 12px;
+    padding-bottom: 20px;
+    padding-left: 12px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    border-bottom-color: rgb(194, 191, 191);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    margin-right: 0px;
+    margin-bottom: 28px;
+    display: block;
+    background-color: rgb(255, 255, 255);
+}
+
+#text2 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 400;
+    line-height: 1em;
+    clear: none;
+    min-height: 0px;
+    color: rgb(96, 96, 96);
+    font-family: quicksand;
+    text-transform: none;
+    text-decoration: none;
+    margin-left: 0%;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+#Job_title {
+    float: left;
+    height: auto;
+    display: block;
+    text-align: left;
+    margin-left: 0%;
+    margin-top: 24px;
+    clear: both;
+    width: 100%;
+    min-height: auto;
+    max-width: none;
+}
+
+#text3 {
+    float: none;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    padding-left: 0em;
+    padding-right: 0em;
+    display: block;
+    font-family: pontano-sans;
+    margin-bottom: 4px;
+    color: rgb(96, 96, 96);
+}
+
+#textinput {
+    float: none;
+    height: auto;
+    padding-top: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    font-size: 1em;
+    display: block;
+    width: 100%;
+    font-family: pontano-sans;
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+    border-bottom-right-radius: 1px;
+    border-bottom-left-radius: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-color: rgb(192, 192, 192);
+    border-right-color: rgb(192, 192, 192);
+    border-bottom-color: rgb(192, 192, 192);
+    border-left-color: rgb(192, 192, 192);
+    -webkit-box-shadow: rgb(243, 243, 243) 14px 6px 35px 0px inset;
+    box-shadow: rgb(243, 243, 243) 14px 6px 35px 0px inset;
+    color: rgb(96, 96, 96);
+}
+
+#text5 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 200;
+    line-height: 1em;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: both;
+    min-height: 0px;
+    color: rgb(96, 96, 96);
+    font-family: pontano-sans;
+    display: block;
+    margin-right: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-bottom: 0px;
+}
+
+#textspan {
+    float: none;
+    font-size: 1em;
+    line-height: 1em;
+    font-weight: 400;
+}
+
+#formgroup {
+    float: left;
+    height: auto;
+    display: block;
+    text-align: left;
+    margin-left: 12px;
+    margin-top: 8px;
+    clear: both;
+    width: auto;
+    min-height: auto;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding-top: 4px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+}
+
+#input1 {
+    float: none;
+    height: auto;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    font-size: 1em;
+    display: inline-block;
+    width: auto;
+}
+
+#text6 {
+    float: none;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    padding-top: 0em;
+    padding-bottom: 0em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    display: inline-block;
+    font-family: pontano-sans;
+    color: rgb(96, 96, 96);
+}
+
+#formgroup1 {
+    float: left;
+    height: auto;
+    display: block;
+    text-align: left;
+    margin-left: 12px;
+    margin-top: 0px;
+    clear: both;
+    width: auto;
+    min-height: auto;
+    padding-top: 4px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+}
+
+#input2 {
+    float: none;
+    height: auto;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    font-size: 1em;
+    display: inline-block;
+    width: auto;
+}
+
+#text7 {
+    float: none;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    padding-top: 0em;
+    padding-bottom: 0em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    display: inline-block;
+    font-family: pontano-sans;
+    color: rgb(96, 96, 96);
+}
+
+#formgroup2 {
+    float: left;
+    height: auto;
+    display: block;
+    text-align: left;
+    margin-left: 12px;
+    margin-top: 0px;
+    clear: both;
+    width: auto;
+    min-height: auto;
+    padding-top: 4px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+}
+
+#input3 {
+    float: none;
+    height: auto;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    font-size: 1em;
+    display: inline-block;
+    width: auto;
+}
+
+#text8 {
+    float: none;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    padding-top: 0em;
+    padding-bottom: 0em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    display: inline-block;
+    font-family: pontano-sans;
+    color: rgb(96, 96, 96);
+}
+
+#formgroup3 {
+    float: left;
+    height: auto;
+    display: block;
+    text-align: left;
+    margin-left: 12px;
+    margin-top: 0px;
+    clear: both;
+    width: auto;
+    min-height: auto;
+    padding-top: 4px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+}
+
+#input4 {
+    float: none;
+    height: auto;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    font-size: 1em;
+    display: inline-block;
+    width: auto;
+}
+
+#text9 {
+    float: none;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    padding-top: 0em;
+    padding-bottom: 0em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    display: inline-block;
+    font-family: pontano-sans;
+    color: rgb(96, 96, 96);
+}
+
+#formgroup4 {
+    float: left;
+    height: auto;
+    display: block;
+    text-align: left;
+    margin-left: 12px;
+    margin-top: 0px;
+    clear: both;
+    width: auto;
+    min-height: auto;
+    margin-right: 0px;
+    padding-top: 4px;
+    padding-left: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+}
+
+#input5 {
+    float: none;
+    height: auto;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    font-size: 1em;
+    display: inline-block;
+    width: auto;
+}
+
+#text10 {
+    float: none;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    padding-top: 0em;
+    padding-bottom: 0em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    display: inline-block;
+    font-family: pontano-sans;
+    color: rgb(96, 96, 96);
+}
+
+#Job_description {
+    float: left;
+    height: 100%;
+    display: block;
+    text-align: left;
+    clear: both;
+    width: 100%;
+    max-width: none;
+    margin-right: 0%;
+    margin-left: 0%;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-top: 16px;
+    margin-bottom: 0px;
+}
+
+#text13 {
+    float: none;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    padding-left: 0em;
+    padding-right: 0em;
+    display: block;
+    color: rgb(96, 96, 96);
+    font-family: pontano-sans;
+    margin-bottom: 4px;
+}
+
+#textinput4 {
+    float: none;
+    height: 12em;
+    padding-top: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    font-size: 1em;
+    display: block;
+    width: 100%;
+    color: rgb(96, 96, 96);
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+    border-bottom-right-radius: 1px;
+    border-bottom-left-radius: 1px;
+    border-top-color: rgb(192, 192, 192);
+    border-right-color: rgb(192, 192, 192);
+    border-bottom-color: rgb(192, 192, 192);
+    border-left-color: rgb(192, 192, 192);
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    -webkit-box-shadow: rgb(243, 243, 243) 14px 6px 35px 0px inset;
+    box-shadow: rgb(243, 243, 243) 14px 6px 35px 0px inset;
+    font-family: pontano-sans;
+}
+
+#How_to_apply {
+    float: left;
+    height: auto;
+    display: block;
+    text-align: left;
+    margin-left: 0%;
+    margin-top: 16px;
+    clear: both;
+    width: 100%;
+    min-height: auto;
+    max-width: none;
+    margin-right: 0%;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-bottom: 0px;
+}
+
+#text14 {
+    float: none;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    padding-left: 0em;
+    padding-right: 0em;
+    display: block;
+    color: rgb(96, 96, 96);
+    font-family: pontano-sans;
+    margin-bottom: 4px;
+}
+
+#textinput5 {
+    float: none;
+    height: 6em;
+    padding-top: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    font-size: 1em;
+    display: block;
+    width: 100%;
+    color: rgb(96, 96, 96);
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+    border-bottom-right-radius: 1px;
+    border-bottom-left-radius: 1px;
+    border-top-color: rgb(192, 192, 192);
+    border-right-color: rgb(192, 192, 192);
+    border-bottom-color: rgb(192, 192, 192);
+    border-left-color: rgb(192, 192, 192);
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    -webkit-box-shadow: rgb(243, 243, 243) 14px 6px 35px 0px inset;
+    box-shadow: rgb(243, 243, 243) 14px 6px 35px 0px inset;
+    font-family: pontano-sans;
+}
+
+#Company_name {
+    float: left;
+    height: auto;
+    display: block;
+    text-align: left;
+    margin-left: 0%;
+    margin-top: 16px;
+    clear: both;
+    width: 100%;
+    min-height: auto;
+    margin-right: 0%;
+    max-width: none;
+    margin-bottom: 0px;
+}
+
+#text4 {
+    float: none;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    padding-left: 0em;
+    padding-right: 0em;
+    display: block;
+    font-family: pontano-sans;
+    margin-bottom: 4px;
+    color: rgb(96, 96, 96);
+}
+
+#textinput1 {
+    float: none;
+    height: auto;
+    padding-top: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    font-size: 1em;
+    display: block;
+    width: 100%;
+    font-family: pontano-sans;
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+    border-bottom-right-radius: 1px;
+    border-bottom-left-radius: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-color: rgb(192, 192, 192);
+    border-right-color: rgb(192, 192, 192);
+    border-bottom-color: rgb(192, 192, 192);
+    border-left-color: rgb(192, 192, 192);
+    -webkit-box-shadow: rgb(243, 243, 243) 14px 6px 35px 0px inset;
+    box-shadow: rgb(243, 243, 243) 14px 6px 35px 0px inset;
+    color: rgb(96, 96, 96);
+}
+
+#Location {
+    float: left;
+    height: auto;
+    display: block;
+    text-align: left;
+    margin-left: 0%;
+    margin-top: 16px;
+    clear: both;
+    width: 100%;
+    min-height: auto;
+    margin-right: 0%;
+    max-width: none;
+    margin-bottom: 0px;
+}
+
+#text12 {
+    float: none;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    padding-left: 0em;
+    padding-right: 0em;
+    display: block;
+    font-family: pontano-sans;
+    margin-bottom: 4px;
+    color: rgb(96, 96, 96);
+}
+
+#textinput3 {
+    float: none;
+    height: auto;
+    padding-top: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    font-size: 1em;
+    display: block;
+    width: 100%;
+    font-family: pontano-sans;
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+    border-bottom-right-radius: 1px;
+    border-bottom-left-radius: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-color: rgb(192, 192, 192);
+    border-right-color: rgb(192, 192, 192);
+    border-bottom-color: rgb(192, 192, 192);
+    border-left-color: rgb(192, 192, 192);
+    -webkit-box-shadow: rgb(243, 243, 243) 14px 6px 35px 0px inset;
+    box-shadow: rgb(243, 243, 243) 14px 6px 35px 0px inset;
+    color: rgb(96, 96, 96);
+}
+
+#Company_URL {
+    float: left;
+    height: auto;
+    display: block;
+    text-align: left;
+    margin-left: 0%;
+    margin-top: 16px;
+    clear: both;
+    width: 100%;
+    min-height: auto;
+    margin-right: 0%;
+    max-width: none;
+}
+
+#text11 {
+    float: none;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    padding-left: 0em;
+    padding-right: 0em;
+    display: block;
+    font-family: pontano-sans;
+    margin-bottom: 4px;
+    color: rgb(96, 96, 96);
+}
+
+#textinput2 {
+    float: none;
+    height: auto;
+    padding-top: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    font-size: 1em;
+    display: block;
+    width: 100%;
+    font-family: pontano-sans;
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+    border-bottom-right-radius: 1px;
+    border-bottom-left-radius: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-color: rgb(192, 192, 192);
+    border-right-color: rgb(192, 192, 192);
+    border-bottom-color: rgb(192, 192, 192);
+    border-left-color: rgb(192, 192, 192);
+    -webkit-box-shadow: rgb(243, 243, 243) 14px 6px 35px 0px inset;
+    box-shadow: rgb(243, 243, 243) 14px 6px 35px 0px inset;
+    color: rgb(96, 96, 96);
+}
+
+#Post_my_job {
+    float: left;
+    height: 67px;
+    font-size: 1em;
+    margin-left: 0%;
+    margin-top: 20px;
+    clear: none;
+    width: 100%;
+    display: block;
+    border-top-color: rgb(246, 132, 56);
+    border-right-color: rgb(246, 132, 56);
+    border-bottom-color: rgb(246, 132, 56);
+    border-left-color: rgb(246, 132, 56);
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    color: rgb(246, 132, 56);
+    font-family: quicksand;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    font-weight: 500;
+    background-color: rgba(255, 229, 203, 0.219608);
+}
+
+#image1 {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: relative;
+    margin-top: 0px;
+    margin-left: auto;
+    overflow-y: auto;
+    overflow-x: auto;
+    margin-bottom: 0px;
+    display: block;
+    margin-right: auto;
+}
+
+#box3 {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 16px;
+    clear: both;
+    width: 100%;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+#text15 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0%;
+    margin-top: 16px;
+    clear: both;
+    min-height: 0px;
+    color: rgb(96, 96, 96);
+    font-family: pontano-sans;
+}
+
+#image2 {
+    float: left;
+    width: 500px;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 723.5px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    display: none;
+    margin-right: auto;
+    margin-bottom: 0px;
+}
+
+#Category {
+    float: left;
+    height: 100%;
+    margin-left: 0%;
+    margin-top: 16px;
+    clear: both;
+    width: auto;
+    margin-right: 0%;
+    margin-bottom: 0px;
+}
+
+#text {
+    float: left;
+    font-size: 1.3em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 100;
+    line-height: 1em;
+    margin-left: 5.35%;
+    margin-top: 24px;
+    clear: none;
+    min-height: 0px;
+    margin-right: 0%;
+    color: rgb(255, 255, 255);
+    text-transform: none;
+    font-family: antic;
+    text-shadow: rgba(0, 0, 0, 0.0392157) 0px 1px 1.5px, rgba(0, 0, 0, 0.0784314) 0px 1px 1px;
+    display: block;
+}
+
+@media only screen and (min-width: 320px) {
+    #text1 {
+        margin-top: 21px;
+        margin-left: 0%;
+        clear: both;
+    }
+
+    #box {
+        width: 111.991994%;
+        height: 72px;
+        margin-top: 0px;
+        margin-left: -5.991646%;
+        clear: none;
+    }
+
+    #box2 {
+        clear: both;
+    }
+
+    #Post_my_job {
+        clear: none;
+    }
+
+    #image1 {
+        width: auto;
+        max-width: 100%;
+        height: auto;
+        color: rgb(0, 0, 0);
+    }
+}
+
+@media only screen and (min-width: 400px) {
+    #text1 {
+        clear: both;
+        margin-top: 21px;
+        margin-left: 0%;
+    }
+
+    #box {
+        margin-top: 0px;
+        margin-left: -5.991301%;
+        clear: none;
+        width: 111.993476%;
+        height: 72px;
+    }
+
+    #image {
+        float: left;
+        width: auto;
+        max-width: 100%;
+        height: auto;
+        margin-left: 0%;
+        margin-top: 0px;
+        clear: none;
+        color: rgb(0, 0, 0);
+        visibility: hidden;
+        position: absolute;
+    }
+
+    #box2 {
+        width: 100%;
+        clear: both;
+        padding-top: 21px;
+        padding-right: 18px;
+        padding-bottom: 21px;
+        padding-left: 18px;
+        margin-top: 21px;
+        margin-left: 0%;
+    }
+
+    #image2 {
+        clear: both;
+    }
+}
+
+@media only screen and (min-width: 480px) {
+    #text1 {
+        display: block;
+        margin-top: 21px;
+        margin-left: 0%;
+        clear: both;
+    }
+
+    #input {
+        width: 100px;
+    }
+
+    #box {
+        margin-top: 0px;
+        margin-left: -5.989583%;
+        clear: none;
+    }
+
+    #box2 {
+        padding-top: 28px;
+        padding-right: 24px;
+        padding-bottom: 28px;
+        padding-left: 24px;
+        margin-top: 21px;
+        margin-left: 0%;
+        clear: both;
+        height: auto;
+    }
+
+    #text2 {
+        clear: none;
+        font-size: 1em;
+        margin-top: 0px;
+        margin-left: 0%;
+    }
+
+    #text5 {
+        clear: both;
+        font-size: 1em;
+    }
+
+    #Post_my_job {
+        margin-top: 28px;
+        margin-left: 0%;
+        clear: both;
+    }
+
+    #Job_title {
+        margin-top: 24px;
+        margin-left: 0%;
+        clear: both;
+    }
+
+    #formgroup {
+        margin-top: 12px;
+        margin-left: 0px;
+        clear: both;
+    }
+
+    #formgroup1 {
+        margin-top: 0px;
+        margin-left: 0px;
+        clear: both;
+    }
+
+    #formgroup2 {
+        margin-top: 0px;
+        margin-left: 0px;
+        clear: both;
+    }
+
+    #formgroup3 {
+        margin-top: 0px;
+        margin-left: 0px;
+        clear: both;
+    }
+
+    #formgroup4 {
+        margin-top: 0px;
+        margin-left: 0px;
+        clear: both;
+    }
+
+    #Job_description {
+        clear: both;
+    }
+
+    #How_to_apply {
+        clear: both;
+    }
+
+    #Company_name {
+        clear: both;
+    }
+
+    #Location {
+        clear: both;
+    }
+
+    #Company_URL {
+        margin-top: 16px;
+        margin-left: 0%;
+        clear: both;
+    }
+
+    #text15 {
+        margin-top: 20px;
+        margin-left: 0%;
+        clear: both;
+    }
+
+    #box3 {
+        margin-top: 16px;
+        margin-left: 0%;
+        clear: both;
+    }
+
+    #image2 {
+        width: 500px;
+        max-width: 100%;
+        height: auto;
+        clear: both;
+        color: rgb(0, 0, 0);
+        float: left;
+    }
+
+    #image1 {
+        display: block;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    #box1 {
+        margin-top: 0px;
+        margin-left: auto;
+        clear: none;
+        margin-right: auto;
+        width: 690px;
+        float: none;
+    }
+
+    #box {
+        width: 2070px;
+        margin-left: -690px;
+        height: 72px;
+    }
+
+    #input {
+        margin-right: 0%;
+    }
+
+    #box2 {
+        height: 51.421983%;
+        width: 100%;
+    }
+
+    #text2 {
+        clear: none;
+        margin-top: 0px;
+        margin-left: 0%;
+    }
+
+    #text5 {
+        clear: none;
+    }
+
+    #Job_title {
+        margin-top: 24px;
+        margin-left: 0%;
+        clear: both;
+        width: 48.710086%;
+    }
+
+    #formgroup {
+        margin-top: 12px;
+        margin-left: 0.015625px;
+        clear: both;
+        margin-right: 0px;
+    }
+
+    #formgroup1 {
+        margin-top: 0px;
+        margin-left: 0.015625px;
+        clear: both;
+        margin-right: 0px;
+    }
+
+    #formgroup2 {
+        margin-top: 0px;
+        margin-left: 0.015625px;
+        clear: both;
+        margin-right: 0px;
+    }
+
+    #formgroup3 {
+        margin-top: 0px;
+        margin-left: 0.015625px;
+        clear: both;
+        margin-right: 0px;
+    }
+
+    #formgroup4 {
+        margin-top: 0px;
+        margin-left: 0.015625px;
+        clear: both;
+        margin-right: 0px;
+    }
+
+    #Job_description {
+        clear: right;
+        margin-top: 24px;
+        margin-left: 0%;
+    }
+
+    #How_to_apply {
+        clear: left;
+        margin-top: 16px;
+        margin-left: 0%;
+    }
+
+    #Company_name {
+        clear: none;
+        width: 48.710086%;
+        margin-top: 24px;
+        margin-left: 0px;
+        margin-right: 0.0073014%;
+        float: right;
+    }
+
+    #Location {
+        clear: right;
+        width: 48.710086%;
+        margin-top: 16px;
+        margin-left: 0px;
+        margin-right: 0%;
+        float: right;
+    }
+
+    #Company_URL {
+        margin-top: 16px;
+        margin-left: 0px;
+        clear: none;
+        width: 48.710086%;
+        margin-right: 0.0048676%;
+        float: right;
+    }
+
+    #text15 {
+        margin-top: 20px;
+        margin-left: 0%;
+        clear: left;
+    }
+
+    #box3 {
+        margin-top: 16px;
+        margin-left: 0%;
+        clear: left;
+    }
+
+    #image2 {
+        clear: none;
+        float: none;
+        display: block;
+    }
+
+    #Post_my_job {
+        margin-top: 22px;
+        margin-left: 0%;
+        clear: none;
+    }
+
+    #image1 {
+        display: none;
+    }
+
+    #Category {
+        float: left;
+        height: 100%;
+        clear: both;
+        width: auto;
+        margin-top: 16px;
+        margin-left: 0%;
+    }
+
+    #text {
+        margin-left: 0%;
+    }
+
+    #text4 {
+        margin-left: 0px;
+        margin-right: 66.423504%;
+        float: right;
+        margin-top: 0px;
+        clear: none;
+    }
+
+    #textinput {
+        -webkit-box-shadow: rgb(243, 243, 243) 14px 6px 35px 0px inset;
+        box-shadow: rgb(243, 243, 243) 14px 6px 35px 0px inset;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    #formgroup {
+        margin-bottom: auto;
+        padding-top: 2px;
+        padding-bottom: 4px;
+    }
+
+    #formgroup1 {
+        margin-bottom: auto;
+        padding-top: 2px;
+        padding-bottom: 4px;
+    }
+
+    #formgroup3 {
+        margin-bottom: auto;
+        padding-top: 2px;
+        padding-bottom: 4px;
+    }
+
+    #formgroup2 {
+        margin-bottom: auto;
+        padding-top: 2px;
+        padding-bottom: 4px;
+    }
+
+    #formgroup4 {
+        margin-bottom: auto;
+        padding-top: 2px;
+        padding-bottom: 4px;
+    }
+}
+

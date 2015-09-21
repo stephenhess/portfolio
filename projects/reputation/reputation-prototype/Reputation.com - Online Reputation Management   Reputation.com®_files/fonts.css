@@ -1,0 +1,41 @@
+/*------FONTS/TEXT ------*/
+@font-face {
+    font-family: "MuseoSans-100";
+    src: url(" ../fonts/museo_sans/fontsquirrel/museosans_100-museosans.eot");
+    src: local("‚ò∫"), url(" ../fonts/museo_sans/fontsquirrel/museosans_100-museosans.woff") format("woff"), url(" ../fonts/museo_sans/fontsquirrel/museosans_100-museosans.ttf") format("truetype"), url(" ../fonts/museo_sans/fontsquirrel/museosans_100-museosans.svg#MuseoSans100") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "MuseoSans-300";
+    src: url(" ../fonts/museo_sans/fontsquirrel/museosans_300-museosans.eot");
+    src: local("‚ò∫"), url(" ../fonts/museo_sans/fontsquirrel/museosans_300-museosans.woff") format("woff"), url(" ../fonts/museo_sans/fontsquirrel/museosans_300-museosans.ttf") format("truetype"), url(" ../fonts/museo_sans/fontsquirrel/museosans_300-museosans.svg#MuseoSans300") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "MuseoSans-500";
+    src: url(" ../fonts/museo_sans/fontsquirrel/museosans_500-museosans.eot");
+    src: local("‚ò∫"), url(" ../fonts/museo_sans/fontsquirrel/museosans_500-museosans.woff") format("woff"), url(" ../fonts/museo_sans/fontsquirrel/museosans_500-museosans.ttf") format("truetype"), url(" ../fonts/museo_sans/fontsquirrel/museosans_500-museosans.svg#MuseoSans500") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: "MuseoSans-700";
+    src: url(" ../fonts/museo_sans/fontsquirrel/museosans_700-museosans.eot");
+    src: local("‚ò∫"), url(" ../fonts/museo_sans/fontsquirrel/museosans_700-museosans.woff") format("woff"), url(" ../fonts/museo_sans/fontsquirrel/museosans_700-museosans.ttf") format("truetype"), url(" ../fonts/museo_sans/fontsquirrel/museosans_700-museosans.svg#MuseoSans700") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "MuseoSans-900";
+    src: url(" ../fonts/museo_sans/fontsquirrel/museosans_900-museosans.eot");
+    src: local("‚ò∫"), url(" ../fonts/museo_sans/fontsquirrel/museosans_900-museosans.woff") format("woff"), url(" ../fonts/museo_sans/fontsquirrel/museosans_900-museosans.ttf") format("truetype"), url(" ../fonts/museo_sans/fontsquirrel/museosans_900-museosans.svg#MuseoSans900") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}

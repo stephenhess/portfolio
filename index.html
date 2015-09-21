@@ -20,12 +20,16 @@
 
 				<div class="pad-x">
 					<h1 class="white center display-1 regular">Hi, I'm Stephen</h1>
-					<h2 class="white center headline light">I'm a product designer and developer in the SF Bay Area</h2>
+					<h2 class="white center headline light">I'm a product designer and developer in the SF Bay Area.</h2>
 
 					<div id="button-wrapper">
-						<button class="white-button"> My Portfolio </button>
-						<button class="white-button"> About me </button>
-						<button class="white-button"> Get in touch </button>
+						<a href="#portfolio">
+							<button class="white-button"> My Portfolio </button>
+						</a>
+						<a href="#about">
+							<button class="white-button"> About me </button>
+						</a>
+						<!-- <button class="white-button"> Get in touch </button> -->
 					</div>
 				</div>
 
@@ -42,83 +46,81 @@
 
 		<section id="portfolio" class="row">
 
-			<h1 class="center headline">My portfolio</h1>
+			<h1 name="portfolio" class="center headline margin-bottom">My portfolio</h1>
 
 			<!-- Stride Health -->
 
-			<a href="../stride.html">
+			<a href="../projects/stride">
 				<div class="columns small-12 project-wrapper pad-top-none">
 					<div id="stride" class="project-tile">
-					
-					<div class="project-overlay center">
-						<h2 class="title regular white">Stride Health</h2>
-						<h3 class="title light white">Health Insurance Marketplace</h3>
+						<div class="project-overlay center">
+							<h2 class="title regular white">Stride Health</h2>
+							<h3 class="title light white">Health Insurance Marketplace</h3>
+						</div>
 					</div>
+					<div class="project-caption center columns">
+						<h2 class="title regular">Stride Health</h2>
+						<h3 class="title light">Health Insurance Marketplace</h3>
 					</div>
 				</div>
 			</a>
 
-			<div class="project-caption center columns">
-				<h2 class="title regular">Stride Health</h2>
-				<h3 class="title light">Health Insurance Marketplace</h3>
-			</div>
 
 			<!-- Reputation.com -->
 
-			<a href="../reputation.html">
+			<a href="../projects/reputation">
 				<div class="columns small-12 project-wrapper">
 					<div id="reputation" class="project-tile">
-					
-					<div class="project-overlay center">
-						<h2 class="title regular white">Reputation.com</h2>
-						<h3 class="title light white">Online Reputation Management</h3>
+						<div class="project-overlay center">
+							<h2 class="title regular white">Reputation.com</h2>
+							<h3 class="title light white">Online Reputation Management</h3>
+						</div>
 					</div>
+					<div class="project-caption center">
+						<h2 class="title regular">Reputation.com</h2>
+						<h3 class="title light">Online Reputation Management</h3>
 					</div>
 				</div>
 			</a>
 
-			<div class="project-caption center columns">
-				<h2 class="title regular">Reputation.com</h2>
-				<h3 class="title light">Online Reputation Management</h3>
-			</div>
 
 			<!-- Lightsmith -->
 
-			<a href="../lightsmith.html">
+			<a href="http://www.lightsmith.io" target="_blank">
 				<div class="columns medium-6 project-wrapper">
 					<div id="lightsmith" class="project-tile">
-					
-					<div class="project-overlay center">
-						<h2 class="title regular white">Lightsmith Computing, Inc.</h2>
-						<h3 class="title light white">Machine Learning as a Service</h3>
+						<div class="project-overlay center">
+							<h2 class="title regular white">Lightsmith Computing, Inc.</h2>
+							<h3 class="title light white">Machine Learning as a Service</h3>
+						</div>
 					</div>
+					<div class="project-caption center columns">
+						<h2 class="title regular">Lightsmith Computing, Inc.</h2>
+						<h3 class="title light">Machine Learning as a Service</h3>
 					</div>
 				</div>
 			</a>
 
-			<div class="project-caption center columns">
-				<h2 class="title regular">Lightsmith Computing, Inc.</h2>
-				<h3 class="title light">Machine Learning as a Service</h3>
-			</div>
+			
 
 			<!-- Coin Engineer -->
 
-			<a href="../coin-engineer.html">
+			<a href="../projects/coin-engineer">
 				<div class="columns medium-6 project-wrapper">
 					<div id="coin-engineer" class="project-tile">
-					
-					<div class="project-overlay center">
-						<h2 class="title regular white">Coin Engineer</h2>
-						<h3 class="title light white">Cryptocurrency Job Board</h3>
+						<div class="project-overlay center">
+							<h2 class="title regular white">Coin Engineer</h2>
+							<h3 class="title light white">Cryptocurrency Job Board</h3>
+						</div>
 					</div>
+					<div class="project-caption center columns">
+						<h2 class="title regular">Coin Engineer</h2>
+						<h3 class="title light">Cryptocurrency Job Board</h3>
 					</div>
 				</div>
 			</a>
 
-			<div class="project-caption center columns">
-				<h2 class="title regular">Coin Engineer</h2>
-				<h3 class="title light">Cryptocurrency Job Board</h3>
-			</div>
+		
 
 		</section>
 
@@ -126,17 +128,17 @@
 
 		<section id="about" class="light-bg">
 			<div class="row">
-				<h1 class="headline center">About me</h1>
+				<h1 name="about" class="headline center margin-bottom">About me</h1>
 				<div class="fullWidth">
 					<div id="stephen" class="columns medium-4 pad-x pad-bottom">
 						<img src="../img/stephen.png">
 					</div>
 					<div id="bio" class="subhead-1 columns medium-8"/>
-						<p>Hi, I'm a product designer and developer who lives in Redwood City, Ca. After graduating with a degree in Symbolic Systems from Stanford in 2010, I led product and design teams at Reputation.com and Stride Health.</p>
-						<p class="margin-y">I'm currently the CEO of Lightsmith Computing, Inc., a machine intelligence startup focused on helping companies extract meaningful data from photos using custom built neural networks.</p>
-						<p class="margin-y">In addition to my interest in understanding the nature of intelligence in the mind, I enjoy topics related to public health, nutrition, education, public policy and helping individuals and families compete admist rising social inequity.
+						<p>Hi, I'm a product designer who lives in the SF Bay Area. I studied Symbolic Systems and Human Computer Interaction at Stanford University and graduated with my BS in 2010. Since then, I've led product and design teams at Reputation.com and Stride Health.</p>
+
+						<p class="margin-y">I enjoy topics related to machine learning, public health, nutrition, education and public policy. I like big consumer markets. I hope to help individuals and families who are competing in a world of increasing social inequity and labor automation. 
 						</p>
-						<p class="margin-y">Check me out online at <a href="https://github.com/stephenhess">GitHub</a>, <a href="https://dribbble.com/airplanemode">Dribbble</a> and on <a href="https://www.linkedin.com/in/stephennhess">LinkedIn</a>.
+					<!-- 	<p class="margin-y">Check me out online at <a href="https://github.com/stephenhess">GitHub</a>, <a href="https://dribbble.com/airplanemode">Dribbble</a> and on <a href="https://www.linkedin.com/in/stephennhess">LinkedIn</a>. -->
 						</p>
 					</div>
 				</div>
@@ -145,7 +147,7 @@
 
 		<!-- Contact -->	
 	
-      <section id="contact" class="dark-bg">
+<!--       <section id="contact" class="dark-bg">
       	<div class="row">
 	      <div>
 	        <h1 class="text-center headline white light">Get in touch</h1>
@@ -160,7 +162,7 @@
 	          <input class="blue-button full-width-button" type="submit" value="Submit">
 	        </form>
         </div>
-      </section>
+      </section> -->
 
 
 

@@ -1,0 +1,41 @@
+h1.pageTitle{font-size: 24px; font-family: MuseoSans-300; color: #000; text-align:center;}
+h1.bold{font-family: "MuseoSans-700"; margin: 0 0 15px 0; color: #000;}
+h2.pageDescription{font-size: 14px; font-family: MuseoSans-300; color: #999; text-align:center;}
+h2.greyBar{color: #333; background: #fcf8e3; padding: 6px; text-align:left; font-size: 13px; font-family:MuseoSans-700;}
+
+a{color: #2B86B7; text-decoration:none;}
+a:hover{color: #164b6c; text-decoration: underline;}
+
+a.small{font-size: 11px;}
+
+p{margin: 0 0 6px 0; line-height: 16px; font-size: 13px; color: #333;}
+
+.highlight{background: #fbebc5; padding: 0 4px;}
+
+ul.textList{ width: 300px;}
+ul.textList li{margin: 0 0 5px 16px;}
+
+h1{font-size: 16px;color: #2B86B7;}
+h1 span{font-size: 16px; font-family: "MuseoSans-700";}
+h2{text-align: center; font-size: 14px; text-shadow:0 1px #fff; color: #666;}
+h3{text-align: center; font-size: 12px; text-shadow:0 1px #fff; color: #999; margin: 3px 0 0 0;}
+
+.all,  a.all:hover { color: #2B86B7;}
+
+.excellent, #themes h1.positive, a.excellent:hover { color: #3ea00e;}
+.good{color: #87ba1b;}
+.average, #themes h1.neutral, a.average:hover {  color: #c79909;}
+.fair{ color: #e7630c;}
+.poor, #themes h1.negative, a.poor:hover { color: #c11717;}
+
+.excellentBG { background: #3ea00e;}
+.goodBG{background: #87ba1b;}
+.averageBG {  background: #c79909;}
+.fairBG{ background: #e7630c;}
+.poorBG { background: #c11717;}
+
+
+hr, .hr{background: none; border-top: 1px solid #d9d9d9; border-bottom: 1px solid #fff;  width: 100%; margin: 20px 0; height: 0px; clear: both;}
+
+
+

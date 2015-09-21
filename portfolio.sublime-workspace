@@ -1,0 +1,1150 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"Robot",
+				"Roboto-Regular"
+			],
+			[
+				"Roboto",
+				"Roboto-Light"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"plan-",
+				"plan-flag"
+			],
+			[
+				"trn",
+				"transparent"
+			],
+			[
+				"primary",
+				"primary-color"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"descripti",
+				"description2"
+			],
+			[
+				"small",
+				"small-only"
+			],
+			[
+				"descrip",
+				"description2"
+			],
+			[
+				"max-",
+				"max-width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5769,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "projects/stride.html",
+			"settings":
+			{
+				"buffer_size": 1002,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_portfolio.sass",
+			"settings":
+			{
+				"buffer_size": 1124,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/screen.sass",
+			"settings":
+			{
+				"buffer_size": 1922,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_colors.sass",
+			"settings":
+			{
+				"buffer_size": 146,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "install ",
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 401.0,
+		"history":
+		[
+			"Package Control: Install Package",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/stephenhess/repos/portfolio/index.css",
+		"/Volumes/stephenhess.info/publiclobby.com/index.html",
+		"/Users/stephenhess/repos/public-lobby/sass/app.sass",
+		"/Volumes/stephenhess.info/lightsmith.io/index.html",
+		"/Users/stephenhess/repos/public-lobby/js/pl.js",
+		"/Users/stephenhess/repos/public-lobby/index.html",
+		"/Users/stephenhess/repos/public-lobby/announcement",
+		"/Volumes/stephenhess.info/thepubliclobby.org/style.css",
+		"/Volumes/stephenhess.info/thepubliclobby.org/index.html",
+		"/Users/stephenhess/repos/portfolio_2/stephen.scss",
+		"/Users/stephenhess/repos/portfolio_2/stephen.js",
+		"/Users/stephenhess/Library/Application Support/Sublime Text 2/Packages/Package Control.sublime-package",
+		"/Volumes/stephenhess.info/lightsmith.io/css/ls.css",
+		"/Volumes/lightsmith.io/lightsmith.io/index.html",
+		"/Volumes/lightsmith.io/lightsmith.io/ls.css",
+		"/Volumes/lightsmith.io/lightsmith.io/send_form_email.php",
+		"/Volumes/lightsmith.io/lightsmith.io/app.js",
+		"/Volumes/lightsmith.io/lightsmith.io/jquery-2.1.0.min.js",
+		"/Users/stephenhess/repos/ls/css/ls.css",
+		"/Users/stephenhess/repos/lightsmith/index.html",
+		"/Users/stephenhess/repos/ls/css/foundation.css",
+		"/Users/stephenhess/repos/ls/index.html",
+		"/Users/stephenhess/repos/stride/deploy-client/bower_components/modernizr/test/js/setup.js",
+		"/Users/stephenhess/repos/stride/deploy-client/app/common/directives/submit-errors.js",
+		"/Users/stephenhess/repos/stride/deploy-client/scss/stride.scss",
+		"/Users/stephenhess/repos/stride/deploy-client/bower_components/angular-ui/modules/directives/date/test/dateSpec.js",
+		"/Users/stephenhess/repos/stride/deploy-client/app/common/services/date.js",
+		"/Users/stephenhess/repos/stride/deploy-client/node_modules/karma/node_modules/log4js/test/dateFileAppender-test.js",
+		"/Users/stephenhess/repos/stride/deploy-client/bower_components/modernizr/feature-detects/dataview-api.js",
+		"/Users/stephenhess/repos/stride/deploy-client/dump.rdb",
+		"/Users/stephenhess/repos/stride/deploy-client/app/components/profile/illnesses/illness-edit.html",
+		"/Users/stephenhess/repos/stride/deploy-client/app/routes/ob/illnesses/illnesses.html",
+		"/Users/stephenhess/repos/stride/deploy-client/app/index.html",
+		"/Users/stephenhess/repos/stride/deploy-client/app/common/directives/collapse.js",
+		"/Users/stephenhess/repos/stride/deploy-client/scenarios/routes/onboarding.spec.js",
+		"/Users/stephenhess/repos/stride/deploy-client/translations/stride/en-US/onboarding.json",
+		"/Users/stephenhess/repos/stride/deploy-client/scenarios/routes/onboarding-basics.spec.js",
+		"/Users/stephenhess/repos/stride/deploy-client/node_modules/gulp-if/img/condition.svg",
+		"/Users/stephenhess/repos/stride/deploy-client/bower_components/modernizr/feature-detects/css-backgroundposition-shorthand.js",
+		"/Users/stephenhess/repos/stride/deploy-client/node_modules/contentful/node_modules/contentful-resolve-response/node_modules/lodash-contrib/gh-pages/_.collections.walk.js.html",
+		"/Users/stephenhess/repos/stride/deploy-client/bower_components/modernizr/feature-detects/css-positionsticky.js",
+		"/Users/stephenhess/repos/stride/deploy-client/node_modules/grunt/node_modules/glob/test/pause-resume.js",
+		"/Users/stephenhess/repos/stride/deploy-client/package.json",
+		"/Users/stephenhess/repos/stride/deploy-client/app/components/profile/location/address-form-directive.js",
+		"/Users/stephenhess/repos/stride/deploy-client/bower_components/modernizr/feature-detects/a-download.js",
+		"/Users/stephenhess/repos/stride/deploy-client/app/routes/about/about.html",
+		"/Users/stephenhess/repos/stride/deploy-client/.sass-cache/8753454489edebc268d24185572a7735ff2102b0/_buttons.scssc",
+		"/Users/stephenhess/repos/stride/deploy-client/.sass-cache/5346ffe3862dcd8b607e06d8908fe3c6ca6e1c80/_buttons.scssc",
+		"/Users/stephenhess/repos/stride/deploy-client/scss/components/_buttons.scss",
+		"/Users/stephenhess/repos/stride/deploy-client/.sass-cache/5346ffe3862dcd8b607e06d8908fe3c6ca6e1c80/_button-groups.scssc",
+		"/Users/stephenhess/repos/stride/deploy-client/app/common/directives/bottom-button/bottom-button.html",
+		"/Users/stephenhess/repos/stride/deploy-client/node_modules/gulp/node_modules/vinyl-fs/test/fixtures/bom-utf16be.txt",
+		"/Users/stephenhess/repos/stride/deploy-client/bower.json",
+		"/Users/stephenhess/repos/stride/deploy-client/app/common/directives/match-height.js",
+		"/Users/stephenhess/repos/stride/deploy-client/bower_components/modernizr/feature-detects/mathml.js",
+		"/Users/stephenhess/repos/stride/deploy-client/node_modules/grunt-contrib-uglify/node_modules/uglify-js/lib/mozilla-ast.js",
+		"/Users/stephenhess/repos/stride/deploy-client/node_modules/.bin/mkdirp",
+		"/Users/stephenhess/repos/stride/deploy-client/translations/stride/en-US/home.json",
+		"/Users/stephenhess/repos/stride/deploy-client/node_modules/karma/node_modules/http-proxy/test/core/simple/test-http-extra-response.js",
+		"/Users/stephenhess/repos/stride/deploy-client/app/routes/home/hero-cta.html",
+		"/Users/stephenhess/repos/stride/deploy-client/app/routes/ob/family/family.html",
+		"/Users/stephenhess/repos/stride/deploy-client/bower_components/modernizr/feature-detects/fullscreen-api.js",
+		"/Users/stephenhess/repos/stride/deploy-client/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/lib/BufferUtil.fallback.js",
+		"/Users/stephenhess/repos/stride/deploy-client/bower_components/angular-ui/LICENSE",
+		"/Users/stephenhess/repos/stride/deploy-client/node_modules/gulp-concat/node_modules/through/LICENSE.APACHE2",
+		"/Users/stephenhess/repos/stride/deploy-client/node_modules/karma/lib/launcher.js",
+		"/Users/stephenhess/repos/stride/deploy-client/node_modules/gulp-awspublish/node_modules/gulp-util/node_modules/chalk/node_modules/.bin/has-ansi",
+		"/Users/stephenhess/repos/stride/deploy-client/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/node_modules/zeparser/benchmark.html",
+		"/Users/stephenhess/repos/stride/deploy-client/.sass-cache/8753454489edebc268d24185572a7735ff2102b0/_snackbar.scssc",
+		"/Users/stephenhess/repos/stride/deploy-client/scss/components/_snackbar.scss",
+		"/Users/stephenhess/repos/stride/deploy-client/www/components/snackbar/snackbar.html",
+		"/Users/stephenhess/repos/stride/deploy-client/app/components/snackbar/snackbar.html",
+		"/Users/stephenhess/repos/stride/deploy-client/app/common/directives/state-nav.js",
+		"/Users/stephenhess/repos/stride/deploy-client/node_modules/karma/lib/file_list.js",
+		"/Users/stephenhess/repos/stride/deploy-client/scss/_pages.scss",
+		"/Users/stephenhess/repos/stride/deploy-client/scss/_settings.scss",
+		"/Users/stephenhess/repos/stride/deploy-client/bower_components/modernizr/feature-detects/pointerlock-api.js",
+		"/Users/stephenhess/repos/stride/deploy-client/translations/stride/en-US/partner.json",
+		"/Users/stephenhess/repos/stride/deploy-client/node_modules/karma/lib/config.js",
+		"/Users/stephenhess/repos/stride/deploy-client/node_modules/karma/config.tpl.ls",
+		"/Users/stephenhess/repos/stride/deploy-client/node_modules/karma/config.tpl.js",
+		"/Users/stephenhess/repos/stride/deploy-client/node_modules/karma/config.tpl.coffee",
+		"/Users/stephenhess/repos/stride/deploy-client/node_modules/gulp-compass/test/config.rb",
+		"/Users/stephenhess/repos/stride/deploy-client/node_modules/grunt/CONTRIBUTING.md",
+		"/Users/stephenhess/Google Drive/stride-client.sublime-workspace",
+		"/Users/stephenhess/repos/stride/deploy-client/app/routes/ob/_ob.js",
+		"/Users/stephenhess/repos/stride/deploy-client/scss/components/_forms.scss",
+		"/Users/stephenhess/repos/stride/deploy-client/app/common/directives/ticker.js",
+		"/Users/stephenhess/repos/stride/deploy-client/scss/components/_type.scss",
+		"/Users/stephenhess/repos/stride/deploy-client/app/components/scroll-to/scroll-to-directive.js",
+		"/Users/stephenhess/repos/stride/deploy-client/app/components/scroll-to/scroll-to-service.js",
+		"/Users/stephenhess/repos/stride/deploy-client/app/components/plan/rec-fetch/rec-fetch.html",
+		"/Users/stephenhess/repos/stride/deploy-client/app/routes/refer/refer.html",
+		"/Users/stephenhess/repos/stride/deploy-client/scss/pages/_home.scss",
+		"/Users/stephenhess/repos/stride/deploy-client/app/routes/home/ob-entry.html",
+		"/Users/stephenhess/repos/stride/deploy-client/scss/components/_panels.scss",
+		"/Users/stephenhess/repos/stride/deploy-client/scss/components/_glyphs.scss",
+		"/Users/stephenhess/repos/stride/deploy-client/app/routes/plan/plan-detail.html",
+		"/Users/stephenhess/repos/stride/deploy-client/app/routes/plan/plan-detail-specifics.html",
+		"/Users/stephenhess/repos/stride/deploy-client/scss/components/_accordion.scss",
+		"/Users/stephenhess/repos/stride/deploy-client/app/routes/home/home.html",
+		"/Users/stephenhess/repos/stride/deploy-client/app/common/directives/input-formatters/number-input.js",
+		"/Users/stephenhess/repos/stride/deploy-client/app/routes/ob/family/family-controller.js",
+		"/Users/stephenhess/repos/stride/deploy-client/app/routes/subsidy/exchange/address/family-applicants.html",
+		"/Users/stephenhess/repos/stride/deploy-client/app/routes/compare/plan-list.html",
+		"/Users/stephenhess/repos/stride/deploy-client/scss/_global.scss",
+		"/Users/stephenhess/repos/stride/deploy-client/scss/components/_plans.scss",
+		"/Users/stephenhess/repos/stride/deploy-client/scss/components/_site-header.scss",
+		"/Users/stephenhess/repos/stride/deploy-client/app/routes/buy/submitted/submitted-controller.js",
+		"/Users/stephenhess/repos/stride/deploy-client/app/routes/ob/site-header.html",
+		"/Users/stephenhess/repos/stride/deploy-client/scss/components/_spacing.scss",
+		"/Users/stephenhess/repos/stride/deploy-client/app/routes/subsidy/exchange/applicants/pregnant-expecting.html",
+		"/Users/stephenhess/repos/stride/deploy-client/app/components/plan/plan-stats.js",
+		"/Users/stephenhess/repos/stride/deploy-client/mock/application/default.json",
+		"/Users/stephenhess/repos/stride/deploy-client/app/common/directives/rating/rating.html",
+		"/Users/stephenhess/repos/stride/deploy-client/translations/stride/en-US/errors.json",
+		"/Users/stephenhess/repos/stride/deploy-client/app/routes/shared/site-header-nav.html",
+		"/Users/stephenhess/repos/stride/deploy-client/app/routes/profile/site-header.html",
+		"/Users/stephenhess/repos/stride/deploy-client/app/routes/compare/site-header.html",
+		"/Users/stephenhess/repos/stride/deploy-client/app/routes/subsidy/exchange/address/address-controller.js",
+		"/Users/stephenhess/repos/stride/deploy-client/scss/themes/_stride.scss",
+		"/Users/stephenhess/repos/stride/deploy-client/scss/components/_loading.scss",
+		"/Users/stephenhess/repos/stride/deploy-client/app/components/user/account/login-form.html",
+		"/Users/stephenhess/repos/stride/deploy-client/app/components/plan/plan-sort-service.js",
+		"/Users/stephenhess/repos/stride/deploy-client/app/routes/cms/page.html",
+		"/Users/stephenhess/repos/stride/deploy-client/app/components/profile/location/zip-ob-entry-controller.js",
+		"/Users/stephenhess/repos/stride/deploy-client/translations/stride/en-US/profile.json",
+		"/Users/stephenhess/repos/stride/deploy-client/scenarios/routes/home.spec.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"",
+			"*scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"button",
+			"media",
+			"name",
+			"@media (max-width: 767px)\n		text-align: center",
+			"dark-bg",
+			"center",
+			"email",
+			"script",
+			"input",
+			"button",
+			"a:hover",
+			"white",
+			"theo",
+			"fixe",
+			"ico",
+			"input",
+			"url",
+			".js",
+			"js",
+			"bg",
+			"padding",
+			"margin-left: auto",
+			"center",
+			".medium-up",
+			"769px",
+			"769",
+			"text-center-small",
+			"/conditions",
+			"padding",
+			"height",
+			"primary",
+			"ob-entry",
+			"xlarge",
+			"xlarge-input",
+			"input ",
+			"input",
+			"xlarge",
+			"home.",
+			"title-2",
+			".phone",
+			".hero",
+			"full-bg",
+			"pane",
+			"pane-top",
+			"radio",
+			".radio",
+			"profile.placeholders.age",
+			"Me",
+			"-",
+			"0",
+			"family/summary",
+			"age",
+			"success-color",
+			".success",
+			"+",
+			"glyph-right-open",
+			"toggle-open",
+			"income",
+			"what is your annual household income",
+			"sh-accordion-heading",
+			"recommendation",
+			"action-parent",
+			"pane",
+			"pane-heading",
+			"site-header-medium",
+			"header",
+			"768",
+			"1.0625rem",
+			"glyph",
+			"placeholder",
+			"light-font-color",
+			"input-overlay",
+			"glyph-search",
+			"your zip code",
+			"Your zip code",
+			"search-input",
+			"zipcode",
+			"#zipcode",
+			"zipcode",
+			".zipcode",
+			"zipcode",
+			"sidebar",
+			"in estimated monthly care costs",
+			"12",
+			".name",
+			"margin-top",
+			"padding-top",
+			"stupid",
+			"how many dependents or children",
+			"insurance for today a smoker?",
+			"is anyone you're buying insurance for",
+			"allInForecast",
+			"care + coverage",
+			"per month in care + coverage",
+			"box-shadow",
+			"color",
+			"colors",
+			"plan",
+			".details",
+			"margin",
+			"pad",
+			"margin",
+			"plan-card",
+			"border-top",
+			"bottom",
+			"primary",
+			"button",
+			"sign this agreement",
+			"you acknowledge",
+			"a few personal questions",
+			"ng-model",
+			"address.zipcode",
+			"try again!",
+			".8",
+			"white-bg-transparent",
+			"light-bg-transparent",
+			"light-bg-color",
+			".8",
+			"255, 255, 255, .8",
+			"background-color",
+			"hover",
+			".pane",
+			"applicantForm",
+			"applicationForm",
+			".applicant",
+			"medium-margin-2",
+			"privacy.title",
+			"next up, its time"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5769,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1883,
+								1883
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 818.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "projects/stride.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1002,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								976,
+								976
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sass/_portfolio.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1077,
+								1077
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 703.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "sass/screen.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1922,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								985,
+								985
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 8.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "sass/_colors.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "portfolio.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"about",
+				"app/routes/about/about.html"
+			],
+			[
+				"settings",
+				"scss/_settings.scss"
+			],
+			[
+				"date",
+				"app/common/services/date.js"
+			],
+			[
+				"date.js",
+				"app/common/services/date.js"
+			],
+			[
+				"illness",
+				"www/routes/ob/illnesses/illnesses.html"
+			],
+			[
+				"privacy",
+				"app/routes/ob/privacy.html"
+			],
+			[
+				"address",
+				"app/routes/buy/application/address.html"
+			],
+			[
+				"butto",
+				"scss/components/_buttons.scss"
+			],
+			[
+				"ob",
+				"app/routes/home/ob-entry.html"
+			],
+			[
+				"match-for",
+				"app/routes/shared/match-for-life.html"
+			],
+			[
+				"snack",
+				"scss/components/_snackbar.scss"
+			],
+			[
+				"_part",
+				"app/routes/partner/_partner.js"
+			],
+			[
+				"confi",
+				"app/components/config/config-service.js"
+			],
+			[
+				"json",
+				"translations/stride/en-US/home.json"
+			],
+			[
+				"summary",
+				"app/routes/ob/family/summary.html"
+			],
+			[
+				"tiers",
+				"app/routes/refer/tiers.html"
+			],
+			[
+				"refer",
+				"app/routes/refer/refer.html"
+			],
+			[
+				"gly",
+				"scss/components/_glyphs.scss"
+			],
+			[
+				"plan",
+				"app/routes/plan/plan-detail.html"
+			],
+			[
+				"glyp",
+				"scss/components/_glyphs.scss"
+			],
+			[
+				"buttons",
+				"scss/components/_buttons.scss"
+			],
+			[
+				"sscss",
+				"scss/components/_plans.scss"
+			],
+			[
+				"plan-ed",
+				"app/routes/plan/plan-detail-specifics.html"
+			],
+			[
+				"header",
+				"scss/components/_site-header.scss"
+			],
+			[
+				"",
+				"app/routes/home/home.html"
+			],
+			[
+				"header.scs",
+				"scss/components/_site-header.scss"
+			],
+			[
+				"home",
+				"app/routes/home/home.html"
+			],
+			[
+				"homescs",
+				"scss/pages/_home.scss"
+			],
+			[
+				"strid",
+				"scss/themes/_stride.scss"
+			],
+			[
+				"stride",
+				"scss/stride.scss"
+			],
+			[
+				"button",
+				"scss/components/_buttons.scss"
+			],
+			[
+				"home.scs",
+				"scss/pages/_home.scss"
+			],
+			[
+				"forms",
+				"scss/components/_forms.scss"
+			],
+			[
+				"homescss",
+				"scss/pages/_home.scss"
+			],
+			[
+				"homes",
+				"scss/pages/_home.scss"
+			],
+			[
+				"planscss",
+				"scss/components/_plans.scss"
+			],
+			[
+				"plan-det",
+				"app/routes/buy/plan-details.html"
+			],
+			[
+				"plan-list",
+				"app/routes/compare/plan-list.html"
+			],
+			[
+				"home.js",
+				"translations/stride/en-US/home.json"
+			],
+			[
+				"home.",
+				"app/routes/home/home.html"
+			],
+			[
+				"col",
+				"app/common/directives/collapse.js"
+			],
+			[
+				"ab",
+				"app/routes/about/about.html"
+			],
+			[
+				"plan-detail",
+				"app/routes/plan/plan-detail.html"
+			],
+			[
+				"plan-de",
+				"app/routes/buy/plan-details.html"
+			],
+			[
+				"theme",
+				"scss/themes/_stride.scss"
+			],
+			[
+				"plans",
+				"scss/components/_plans.scss"
+			],
+			[
+				"plan-details",
+				"app/routes/plan/plan-detail-specifics.html"
+			],
+			[
+				"plandeta",
+				"app/routes/plan/plan-detail.html"
+			],
+			[
+				"family",
+				"app/routes/ob/family/family.html"
+			],
+			[
+				"illnes",
+				"app/routes/ob/illnesses/illnesses.html"
+			],
+			[
+				"home.ht",
+				"app/routes/home/home.html"
+			],
+			[
+				"uber",
+				"scss/uber.scss"
+			],
+			[
+				"partner",
+				"app/routes/partner/unverified.html"
+			],
+			[
+				"unv",
+				"app/routes/error/unverified.html"
+			],
+			[
+				"partn",
+				"translations/stride/en-US/partner.json"
+			],
+			[
+				"_sub",
+				"app/routes/subsidy/_subsidy.js"
+			],
+			[
+				"subsid",
+				"app/common/services/subsidy.js"
+			],
+			[
+				"support",
+				"app/routes/subsidy/support/support.html"
+			],
+			[
+				"abo",
+				"app/routes/about/about.html"
+			],
+			[
+				"typ",
+				"scss/components/_type.scss"
+			],
+			[
+				"glyph",
+				"scss/components/_glyphs.scss"
+			],
+			[
+				"err",
+				"translations/stride/en-US/errors.json"
+			],
+			[
+				"errors.",
+				"translations/stride/en-US/errors.json"
+			],
+			[
+				"404",
+				"app/routes/error/404.html"
+			],
+			[
+				"header-nav",
+				"app/routes/shared/site-header-nav.html"
+			],
+			[
+				"form.sc",
+				"scss/components/_forms.scss"
+			],
+			[
+				"globa",
+				"scss/_global.scss"
+			],
+			[
+				"gloa",
+				"scss/_global.scss"
+			],
+			[
+				"plan.",
+				"translations/stride/en-US/plan.json"
+			],
+			[
+				"plandetailjson",
+				"translations/stride/en-US/planDetail.json"
+			],
+			[
+				"sidebar",
+				"app/routes/shared/sidebar-page.html"
+			],
+			[
+				"butt",
+				"scss/components/_buttons.scss"
+			],
+			[
+				"site-heade",
+				"scss/components/_site-header.scss"
+			],
+			[
+				"site",
+				"app/routes/ob/site-header.html"
+			],
+			[
+				"index",
+				"app/index.html"
+			],
+			[
+				"site-header",
+				"app/routes/compare/site-header.html"
+			],
+			[
+				"home.sc",
+				"scss/pages/_home.scss"
+			],
+			[
+				"plancss",
+				"scss/components/_plans.scss"
+			],
+			[
+				"plan.html",
+				"app/components/plan/plan-card.html"
+			],
+			[
+				"plan-",
+				"app/components/plan/plan-stats.js"
+			],
+			[
+				"ppur",
+				"app/routes/purchase/purchase-controller.js"
+			],
+			[
+				"about.cs",
+				"scss/pages/_about.scss"
+			],
+			[
+				"home.t",
+				"app/routes/home/home.html"
+			],
+			[
+				"ho",
+				"translations/stride/en-US/home.json"
+			],
+			[
+				"type",
+				"scss/components/_type.scss"
+			],
+			[
+				"ty",
+				"scss/components/_type.scss"
+			],
+			[
+				"about.",
+				"app/routes/about/about.html"
+			],
+			[
+				"about.js",
+				"translations/stride/en-US/about.json"
+			],
+			[
+				"planjson",
+				"translations/stride/en-US/planDetail.json"
+			],
+			[
+				"spa",
+				"scss/components/_spacing.scss"
+			],
+			[
+				"home.scss",
+				"scss/pages/_home.scss"
+			],
+			[
+				"home.s",
+				"translations/stride/en-US/home.json"
+			],
+			[
+				"shared",
+				"translations/stride/en-US/shared.json"
+			],
+			[
+				"_vis",
+				"scss/components/_visibility.scss"
+			],
+			[
+				"site-",
+				"app/routes/compare/site-header.html"
+			],
+			[
+				"hom",
+				"app/routes/home/home.html"
+			],
+			[
+				"spac",
+				"scss/components/_spacing.scss"
+			],
+			[
+				"header-",
+				"app/routes/shared/site-header-nav.html"
+			],
+			[
+				"in",
+				"app/index.html"
+			],
+			[
+				"_spa",
+				"scss/components/_spacing.scss"
+			],
+			[
+				"ob-en",
+				"app/routes/home/ob-entry.html"
+			],
+			[
+				"_set",
+				"scss/_settings.scss"
+			],
+			[
+				"_hom",
+				"scss/pages/_home.scss"
+			],
+			[
+				"site-e",
+				"app/routes/compare/site-header.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

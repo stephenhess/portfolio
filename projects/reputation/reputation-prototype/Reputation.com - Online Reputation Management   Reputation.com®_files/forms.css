@@ -1,0 +1,32 @@
+.textField{border: none; background: #fff; height: 30px; line-height:30px; color: #999; text-indent:5px; padding: 0; border: 1px solid #ccc; font-size: 13px; width: 230px;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;-moz-box-shadow: inset 1px 1px 1px #888;-webkit-box-shadow: inset 1px 1px 1px #888; box-shadow:inset 1px 1px 1px #888; vertical-align:top;resize: none;}
+.textFieldLarge{border: none; background: #fff; height: 36px; line-height:36px; color: #999; text-indent:10px; padding: 0; border: 1px solid #ddd; font-size: 15px;width: 230px;}
+.textFieldSmall{border: none; background: #fff; height: 24px; line-height:24px; color: #999; text-indent:5px; padding: 0; border: 1px solid #ddd; font-size: 11px;width: 230px;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;-moz-box-shadow: inset 1px 1px 1px #888;-webkit-box-shadow: inset 1px 1px 1px #888; box-shadow:inset 1px 1px 1px #888; vertical-align:top;resize: none;}
+
+textarea, .textarea{border: none; background: #fff; height: 70px; line-height:16px; color: #999;  padding: 0; border: 1px solid #ddd; font-size: 15px;width: 230px;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;-moz-box-shadow: inset 1px 1px 1px #888;-webkit-box-shadow: inset 1px 1px 1px #888; box-shadow:inset 1px 1px 1px #888; resize: none;}
+.textarea {padding: 0;}
+
+
+.filled .textField, .filled .textFieldLarge, .filled .textFieldSmall{color: #000;}
+.error .textField, .error .textFieldLarge, .error .textFieldSmall{color: #000; background: #fcefef url(../images/icon_error.png) center right no-repeat; border-color: #b14444}
+
+.errorMsg{background:  url(../images/icon_error.png) center left no-repeat; padding: 0 0 0 22px; font-size: 13px; color: #b14444;}
+
+.required{color: #999; font-style: italic; padding: 0 0 0 6px;}
+
+.fields input{width: 300px;}
+input:focus{border-color: #2B86B7; background: #e1eff6; color: #000;}
+
+
+
+.search input{border: 1px solid #ccc; height: 28px; line-height:28px; width: 220px; text-indent: 26px; background: #fff url(../images/icon_search.png) 8px center  no-repeat;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;-moz-box-shadow: inset 1px 1px 1px #888;-webkit-box-shadow: inset 1px 1px 1px #888; box-shadow:inset 1px 1px 1px #888; }
+.filter input{border: 1px solid #ccc; height: 28px; line-height:28px; width: 220px; text-indent: 26px; background: #fff url(../images/icon_filter.png) 8px center  no-repeat;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;-moz-box-shadow: inset 1px 1px 1px #888;-webkit-box-shadow: inset 1px 1px 1px #888; box-shadow:inset 1px 1px 1px #888; }
+.filter span{position:relative;}
+.clearSearch{position:absolute; right:12px; top:1px;}
+
+
+ul.formList{list-style-type: none;}
+ul.formList li{padding:  0;}
+ul.formList label{color: #000; padding: 0 0 0 5px;}
+ul.formList .textFieldSmall{display: block; margin: 2px 0 0 20px; width:140px;}
+
+.clearField, .clearField:focus{border: none; background: none;}

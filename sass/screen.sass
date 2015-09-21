@@ -10,6 +10,7 @@
 @import _type
 @import _colors
 @import _portfolio
+@import _elements
 
 $hero-size: 37.5em //600px
 
@@ -122,5 +123,18 @@ html
 
 .overlay
 	+overlay (.32)
+
+.project-caption
+	padding-top: 1.25em
+	padding-bottom: 1.25em
+	background-color: $light-gray
+
+.project-wrapper
+	margin-bottom: 5em
+
+@media screen and (min-width: 25.0625em)
+	.project-wrapper
+		margin-bottom: 0em
+
 
 
