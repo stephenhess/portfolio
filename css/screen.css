@@ -147,6 +147,13 @@ input, textarea {
 a {
   color: #0078ff !important; }
 
+button:focus {
+  background-color: #0078ff; }
+
+#hero-container {
+  background-color: #46494C;
+  z-index: 0; }
+
 section {
   padding-top: 2em;
   padding-bottom: 2em; }
@@ -155,6 +162,9 @@ section {
   line-height: 1.5em; }
 .resume-block img {
   padding-bottom: 1em; }
+
+.full-button {
+  width: 100% !important; }
 
 .project-wrapper {
   padding: 1em;
@@ -179,10 +189,6 @@ section {
   .project-caption h3 {
     margin-top: 0.5em; }
 
-#hero-container {
-  background-color: #46494C;
-  z-index: 0; }
-
 #stride {
   background-image: url("../img/project-tiles/stride.jpg"); }
 
@@ -196,6 +202,14 @@ section {
   background-image: url("../img/project-tiles/lightsmith.jpg"); }
 
 @media (min-width: 25.0625em) {
+  #hero-container button {
+    width: auto !important;
+    margin-left: 0.5em;
+    padding: 1em 2em; }
+  #hero-container h1, #hero-container h2 {
+    text-align: left !important;
+    margin-left: 0.5em !important; }
+
   .project-caption {
     display: none; }
 
@@ -288,25 +302,16 @@ html {
   height: 10em; }
 
 #button-wrapper {
-  width: 20em;
-  margin: 0 auto; }
+  padding-left: 0.5em; }
   #button-wrapper button {
-    width: 100%;
-    overflow: hidden;
-    *zoom: 1;
-    float: left;
-    clear: both; }
+    width: auto;
+    padding: 1em 2em;
+    margin-left: 0.5em !important; }
 
 #hero-container {
-  height: 37.5em;
+  height: 32em;
   position: relative;
   overflow: hidden; }
-  #hero-container h1 {
-    margin-top: 1em; }
-  #hero-container h2 {
-    margin: 0.5em 0 0.8em 0; }
-  #hero-container button {
-    margin: 0.32em 0; }
 
 #video {
   position: absolute;

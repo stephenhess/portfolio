@@ -1,6 +1,10 @@
 
 $height: 18.75em //300px
 
+#hero-container
+	background-color: $dark-gray
+	z-index: 0
+
 section
 
 	padding-top: 2em
@@ -11,6 +15,9 @@ section
 		line-height: 1.5em
 	img
 		padding-bottom: 1em
+
+.full-button
+	width: 100% !important
 
 .project-wrapper
 
@@ -43,10 +50,6 @@ section
 		margin-top: .5em
 		
 
-#hero-container
-	background-color: $dark-gray
-	z-index: 0
-
 #stride
 
 	background-image: url("../img/project-tiles/stride.jpg")
@@ -67,8 +70,18 @@ section
 
 @media (min-width: 25.0625em)
 
+	#hero-container
+		button
+			width: auto !important
+			margin-left: .5em 
+			padding: 1em 2em
+		h1, h2
+			text-align: left !important
+			margin-left: .5em !important
+
 	.project-caption
 		display: none
+
 
 	.project-overlay
 

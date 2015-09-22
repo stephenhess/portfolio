@@ -74,6 +74,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/Oval 15.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30524,
+		"inputAbbreviatedPath": "\/img\/Oval 15.png",
+		"outputAbbreviatedPath": "\/img\/Oval 15.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/project-tiles\/coin-engineer.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -158,6 +169,17 @@
 		"initialSize": 1.11884e+06,
 		"inputAbbreviatedPath": "\/img\/project-tiles\/stride.png",
 		"outputAbbreviatedPath": "\/img\/project-tiles\/stride.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/stephen-2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 522337,
+		"inputAbbreviatedPath": "\/img\/stephen-2.png",
+		"outputAbbreviatedPath": "\/img\/stephen-2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
