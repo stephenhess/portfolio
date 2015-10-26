@@ -226,6 +226,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/projects\/coin-engineer\/ce-ipad-3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 412460,
+		"inputAbbreviatedPath": "\/projects\/coin-engineer\/ce-ipad-3.png",
+		"outputAbbreviatedPath": "\/projects\/coin-engineer\/ce-ipad-3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/projects\/coin-engineer\/ce-ipad.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1369,17 +1380,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/projects\/stride\/home\/iphone-home.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.83032e+06,
-		"inputAbbreviatedPath": "\/projects\/stride\/home\/iphone-home.png",
-		"outputAbbreviatedPath": "\/projects\/stride\/home\/iphone-home.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/projects\/stride\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1488,6 +1488,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/projects\/stride\/partners\/large-taskrabbit-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.59224e+06,
+		"inputAbbreviatedPath": "\/projects\/stride\/partners\/large-taskrabbit-2.jpg",
+		"outputAbbreviatedPath": "\/projects\/stride\/partners\/large-taskrabbit-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/projects\/stride\/partners\/large-taskrabbit.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1506,6 +1517,17 @@
 		"initialSize": 272977,
 		"inputAbbreviatedPath": "\/projects\/stride\/partners\/large-us-news.jpg",
 		"outputAbbreviatedPath": "\/projects\/stride\/partners\/large-us-news.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/projects\/stride\/partners\/mobile-taskrabbit-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 700681,
+		"inputAbbreviatedPath": "\/projects\/stride\/partners\/mobile-taskrabbit-2.jpg",
+		"outputAbbreviatedPath": "\/projects\/stride\/partners\/mobile-taskrabbit-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1532,68 +1554,233 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/projects\/stride\/recommendation\/4. full rec.png": {
-		"fileType": 32768,
+	"\/projects\/stride\/recommendation\/age.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 802419,
-		"inputAbbreviatedPath": "\/projects\/stride\/recommendation\/4. full rec.png",
-		"outputAbbreviatedPath": "\/projects\/stride\/recommendation\/4. full rec.png",
+		"initialSize": 442935,
+		"inputAbbreviatedPath": "\/projects\/stride\/recommendation\/age.jpg",
+		"outputAbbreviatedPath": "\/projects\/stride\/recommendation\/age.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/projects\/stride\/recommendation\/7. ipad.png": {
-		"fileType": 32768,
+	"\/projects\/stride\/recommendation\/compare.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.11935e+06,
-		"inputAbbreviatedPath": "\/projects\/stride\/recommendation\/7. ipad.png",
-		"outputAbbreviatedPath": "\/projects\/stride\/recommendation\/7. ipad.png",
+		"initialSize": 566510,
+		"inputAbbreviatedPath": "\/projects\/stride\/recommendation\/compare.jpg",
+		"outputAbbreviatedPath": "\/projects\/stride\/recommendation\/compare.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/projects\/stride\/recommendation\/ipad-recommendation.png": {
-		"fileType": 32768,
+	"\/projects\/stride\/recommendation\/doctor.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 843564,
-		"inputAbbreviatedPath": "\/projects\/stride\/recommendation\/ipad-recommendation.png",
-		"outputAbbreviatedPath": "\/projects\/stride\/recommendation\/ipad-recommendation.png",
+		"initialSize": 473684,
+		"inputAbbreviatedPath": "\/projects\/stride\/recommendation\/doctor.jpg",
+		"outputAbbreviatedPath": "\/projects\/stride\/recommendation\/doctor.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/projects\/stride\/recommendation\/iphone-ob-2.png": {
-		"fileType": 32768,
+	"\/projects\/stride\/recommendation\/drugs.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.2206e+06,
-		"inputAbbreviatedPath": "\/projects\/stride\/recommendation\/iphone-ob-2.png",
-		"outputAbbreviatedPath": "\/projects\/stride\/recommendation\/iphone-ob-2.png",
+		"initialSize": 459627,
+		"inputAbbreviatedPath": "\/projects\/stride\/recommendation\/drugs.jpg",
+		"outputAbbreviatedPath": "\/projects\/stride\/recommendation\/drugs.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/projects\/stride\/recommendation\/iphone-ob.png": {
-		"fileType": 32768,
+	"\/projects\/stride\/recommendation\/gender.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.16823e+06,
-		"inputAbbreviatedPath": "\/projects\/stride\/recommendation\/iphone-ob.png",
-		"outputAbbreviatedPath": "\/projects\/stride\/recommendation\/iphone-ob.png",
+		"initialSize": 451376,
+		"inputAbbreviatedPath": "\/projects\/stride\/recommendation\/gender.jpg",
+		"outputAbbreviatedPath": "\/projects\/stride\/recommendation\/gender.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/projects\/stride\/recommendation\/iphone-recommendation.png": {
+	"\/projects\/stride\/recommendation\/home.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 845043,
+		"inputAbbreviatedPath": "\/projects\/stride\/recommendation\/home.jpg",
+		"outputAbbreviatedPath": "\/projects\/stride\/recommendation\/home.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/projects\/stride\/recommendation\/phone\/age.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/projects\/stride\/recommendation\/phone\/age.jpg",
+		"outputAbbreviatedPath": "\/projects\/stride\/recommendation\/phone\/age.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/projects\/stride\/recommendation\/phone\/compare.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/projects\/stride\/recommendation\/phone\/compare.jpg",
+		"outputAbbreviatedPath": "\/projects\/stride\/recommendation\/phone\/compare.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/projects\/stride\/recommendation\/phone\/doctor.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/projects\/stride\/recommendation\/phone\/doctor.jpg",
+		"outputAbbreviatedPath": "\/projects\/stride\/recommendation\/phone\/doctor.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/projects\/stride\/recommendation\/phone\/drugs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/projects\/stride\/recommendation\/phone\/drugs.jpg",
+		"outputAbbreviatedPath": "\/projects\/stride\/recommendation\/phone\/drugs.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/projects\/stride\/recommendation\/phone\/gender.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/projects\/stride\/recommendation\/phone\/gender.jpg",
+		"outputAbbreviatedPath": "\/projects\/stride\/recommendation\/phone\/gender.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/projects\/stride\/recommendation\/phone\/home.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/projects\/stride\/recommendation\/phone\/home.jpg",
+		"outputAbbreviatedPath": "\/projects\/stride\/recommendation\/phone\/home.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/projects\/stride\/recommendation\/phone\/recommendation.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/projects\/stride\/recommendation\/phone\/recommendation.jpg",
+		"outputAbbreviatedPath": "\/projects\/stride\/recommendation\/phone\/recommendation.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/projects\/stride\/recommendation\/phone\/scenarios.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/projects\/stride\/recommendation\/phone\/scenarios.jpg",
+		"outputAbbreviatedPath": "\/projects\/stride\/recommendation\/phone\/scenarios.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/projects\/stride\/recommendation\/reco-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 713696,
+		"inputAbbreviatedPath": "\/projects\/stride\/recommendation\/reco-2.jpg",
+		"outputAbbreviatedPath": "\/projects\/stride\/recommendation\/reco-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/projects\/stride\/recommendation\/reco-2.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 715469,
-		"inputAbbreviatedPath": "\/projects\/stride\/recommendation\/iphone-recommendation.png",
-		"outputAbbreviatedPath": "\/projects\/stride\/recommendation\/iphone-recommendation.png",
+		"initialSize": 239148,
+		"inputAbbreviatedPath": "\/projects\/stride\/recommendation\/reco-2.png",
+		"outputAbbreviatedPath": "\/projects\/stride\/recommendation\/reco-2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/projects\/stride\/recommendation\/recommendation.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 604823,
+		"inputAbbreviatedPath": "\/projects\/stride\/recommendation\/recommendation.jpg",
+		"outputAbbreviatedPath": "\/projects\/stride\/recommendation\/recommendation.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/projects\/stride\/recommendation\/scenarios.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 572988,
+		"inputAbbreviatedPath": "\/projects\/stride\/recommendation\/scenarios.jpg",
+		"outputAbbreviatedPath": "\/projects\/stride\/recommendation\/scenarios.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/projects\/stride\/stride-hero-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 362810,
+		"inputAbbreviatedPath": "\/projects\/stride\/stride-hero-2.jpg",
+		"outputAbbreviatedPath": "\/projects\/stride\/stride-hero-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/projects\/stride\/stride-hero-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 351698,
+		"inputAbbreviatedPath": "\/projects\/stride\/stride-hero-3.jpg",
+		"outputAbbreviatedPath": "\/projects\/stride\/stride-hero-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/projects\/stride\/stride-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 457965,
+		"inputAbbreviatedPath": "\/projects\/stride\/stride-hero.jpg",
+		"outputAbbreviatedPath": "\/projects\/stride\/stride-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1608,6 +1795,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
+		},
+	"\/resume\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/resume\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/sass\/_colors.sass": {
 		"createSourceMap": 0,
@@ -1641,6 +1837,38 @@
 		"shouldRunBless": 0,
 		"useLibsass": false
 		},
+	"\/sass\/_home.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/_home.sass",
+		"outputAbbreviatedPath": "\/css\/_home.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/sass\/_layout.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/_layout.sass",
+		"outputAbbreviatedPath": "\/css\/_layout.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
 	"\/sass\/_mixins.sass": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -1666,6 +1894,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/sass\/_portfolio.sass",
 		"outputAbbreviatedPath": "\/css\/_portfolio.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/sass\/_stride.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/_stride.sass",
+		"outputAbbreviatedPath": "\/css\/_stride.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1730,22 +1974,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/sass\/screen.sass",
 		"outputAbbreviatedPath": "\/css\/screen.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": false
-		},
-	"\/sass\/type.sass": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 2,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sass\/type.sass",
-		"outputAbbreviatedPath": "\/css\/type.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,

@@ -1,0 +1,76 @@
+
+//Hero 
+
+$hero-size: 32em //600px
+
+#home-hero
+	background-color: $dark-gray
+	z-index: 0
+
+#home-hero
+
+	height: $hero-size
+	position: relative
+	overflow: hidden	
+
+
+@media (min-width: 25.0625em)
+
+	#home-hero
+		button
+			width: auto !important
+			margin-left: .5em 
+			padding: 1em 2em
+		h1, h2
+			text-align: left !important
+			margin-left: .5em !important
+
+
+// Portfolio section
+
+#stride
+
+	background-image: url("../img/project-tiles/stride.jpg")
+ 
+#reputation
+
+	background-image: url("../img/project-tiles/reputation.jpg")
+
+#coin-engineer
+
+	background-image: url("../img/project-tiles/coin-engineer.jpg")
+
+#lightsmith
+
+	background-image: url("../img/project-tiles/lightsmith.jpg")
+
+.project-wrapper
+
+	padding: 1em
+	height: 332px
+
+.project-tile
+	background-size: cover
+	background-position: center
+	height: 100%
+	box-shadow: inset 0 0 80px rgba(0,0,0,0.4)
+
+.project-overlay
+
+	height: 100%
+	padding-top: 6em
+
+	h2, h3
+		visibility: hidden
+
+	h3
+		margin-top: .5em
+
+
+.project-caption
+	
+	margin-bottom: 1em
+
+	h3
+		margin-top: .5em
+		

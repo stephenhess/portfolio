@@ -131,31 +131,69 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 5769,
+				"buffer_size": 5822,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "projects/stride.html",
+			"file": "projects/stride/index.html",
 			"settings":
 			{
-				"buffer_size": 1002,
+				"buffer_size": 6520,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "sass/_portfolio.sass",
-			"settings":
-			{
-				"buffer_size": 1124,
-				"line_ending": "Unix"
-			}
-		},
-		{
+			"contents": "/*\n  Welcome to Compass.\n  In this file you should write your main styles. (or centralize your imports)\n  Import this file using the following HTML or equivalent:\n  <link href=\"/stylesheets/screen.css\" media=\"screen, projection\" rel=\"stylesheet\" type=\"text/css\" /> */\n\n@import compass/reset\n@import compass\n@import _mixins\n@import _type\n@import _colors\n@import _portfolio\n@import _elements\n@import _layout\n\n@import _home\n@import _stride\n\n\nhtml\n	font-family: 'Roboto'\n\n.center\n\n	text-align: center\n\n.blue-button\n	@extend .white-button\n	background-color: rgba($blue,.8)\n	border: none\n\n.full-width-button\n	width: 100%\n\n#contact-body\n\n	height: 10em\n\n#button-wrapper\n\n	padding-left: .5em\n\n	button\n		width: auto\n		padding: 1em 2em\n		margin-left: .5em !important\n\n\n#video\n	\n	position: absolute\n	top: -10%\n	right: -32%\n	z-index: -1 \n	min-width: 132%\n	min-height: 110%\n	display: block\n\n.overlay\n	+overlay (.32)\n\n.project-caption\n	padding-top: 1.25em\n	padding-bottom: 1.25em\n	background-color: $light-gray\n\n.project-wrapper\n	margin-bottom: 5em\n\n@media screen and (min-width: 25.0625em)\n	.project-wrapper\n		margin-bottom: 0em\n\n			\n\n\n\n\n\n\n",
 			"file": "sass/screen.sass",
+			"file_size": 1226,
+			"file_write_time": 130898417890000000,
 			"settings":
 			{
-				"buffer_size": 1922,
+				"buffer_size": 1126,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_stride.sass",
+			"settings":
+			{
+				"buffer_size": 112,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n//Hero \n\n$hero-size: 32em //600px\n\n#home-hero\n	background-color: $dark-gray\n	z-index: 0\n\n#home-hero\n\n	height: $hero-size\n	position: relative\n	overflow: hidden	\n\n\n@media (min-width: 25.0625em)\n\n	#home-hero\n		button\n			width: auto !important\n			margin-left: .5em \n			padding: 1em 2em\n		h1, h2\n			text-align: left !important\n			margin-left: .5em !important\n\n\n// Portfolio section\n\n#stride\n\n	background-image: url(\"../img/project-tiles/stride.jpg\")\n \n#reputation\n\n	background-image: url(\"../img/project-tiles/reputation.jpg\")\n\n#coin-engineer\n\n	background-image: url(\"../img/project-tiles/coin-engineer.jpg\")\n\n#lightsmith\n\n	background-image: url(\"../img/project-tiles/lightsmith.jpg\")\n\n.project-wrapper\n\n	padding: 1em\n	height: 332px\n\n.project-tile\n	background-size: cover\n	background-position: center\n	height: 100%\n	box-shadow: inset 0 0 80px rgba(0,0,0,0.4)\n\n.project-overlay\n\n	height: 100%\n	padding-top: 6em\n\n	h2, h3\n		visibility: hidden\n\n	h3\n		margin-top: .5em\n\n\n.project-caption\n	\n	margin-bottom: 1em\n\n	h3\n		margin-top: .5em\n\n\n@media (min-width: 25.0625em)\n\n	.project-caption\n		display: none\n\n\n	.project-overlay\n\n		&:hover\n			background: rgba(black, .54)\n			transition: background .3s\n			h2, h3\n				visibility: visible\n\n.hover-overlay\n	padding-top: 7em\n	h3\n		margin-top: .5em\n		",
+			"file": "sass/_home.sass",
+			"file_size": 1027,
+			"file_write_time": 130898493690000000,
+			"settings":
+			{
+				"buffer_size": 1278,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_layout.sass",
+			"settings":
+			{
+				"buffer_size": 458,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_elements.sass",
+			"settings":
+			{
+				"buffer_size": 315,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_type.sass",
+			"settings":
+			{
+				"buffer_size": 1225,
 				"line_ending": "Unix"
 			}
 		},
@@ -163,7 +201,7 @@
 			"file": "sass/_colors.sass",
 			"settings":
 			{
-				"buffer_size": 146,
+				"buffer_size": 219,
 				"line_ending": "Unix"
 			}
 		}
@@ -207,6 +245,10 @@
 	},
 	"file_history":
 	[
+		"/Users/stephenhess/repos/portfolio/sass/_portfolio.sass",
+		"/Users/stephenhess/repos/portfolio/sass/_stride.sass",
+		"/Users/stephenhess/repos/portfolio/sass/_elements.sass",
+		"/Users/stephenhess/repos/portfolio/projects/stride.html",
 		"/Users/stephenhess/repos/portfolio/index.css",
 		"/Volumes/stephenhess.info/publiclobby.com/index.html",
 		"/Users/stephenhess/repos/public-lobby/sass/app.sass",
@@ -330,11 +372,7 @@
 		"/Users/stephenhess/repos/stride/deploy-client/scss/themes/_stride.scss",
 		"/Users/stephenhess/repos/stride/deploy-client/scss/components/_loading.scss",
 		"/Users/stephenhess/repos/stride/deploy-client/app/components/user/account/login-form.html",
-		"/Users/stephenhess/repos/stride/deploy-client/app/components/plan/plan-sort-service.js",
-		"/Users/stephenhess/repos/stride/deploy-client/app/routes/cms/page.html",
-		"/Users/stephenhess/repos/stride/deploy-client/app/components/profile/location/zip-ob-entry-controller.js",
-		"/Users/stephenhess/repos/stride/deploy-client/translations/stride/en-US/profile.json",
-		"/Users/stephenhess/repos/stride/deploy-client/scenarios/routes/home.spec.js"
+		"/Users/stephenhess/repos/stride/deploy-client/app/components/plan/plan-sort-service.js"
 	],
 	"find":
 	{
@@ -355,6 +393,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"section",
+			"resume-block",
+			"hero",
+			"video",
+			"none",
+			".white",
+			".white\\\\",
+			"white",
+			"stride-hero",
 			"button",
 			"media",
 			"name",
@@ -473,16 +520,7 @@
 			"light-bg-transparent",
 			"light-bg-color",
 			".8",
-			"255, 255, 255, .8",
-			"background-color",
-			"hover",
-			".pane",
-			"applicantForm",
-			"applicationForm",
-			".applicant",
-			"medium-margin-2",
-			"privacy.title",
-			"next up, its time"
+			"255, 255, 255, .8"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -509,15 +547,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5769,
+						"buffer_size": 5822,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1883,
-								1883
+								1645,
+								1645
 							]
 						],
 						"settings":
@@ -526,35 +564,36 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 818.0,
+						"translation.y": 463.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "projects/stride.html",
+					"file": "projects/stride/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1002,
+						"buffer_size": 6520,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								976,
-								976
+								4962,
+								4962
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1903.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -562,48 +601,19 @@
 				},
 				{
 					"buffer": 2,
-					"file": "sass/_portfolio.sass",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1124,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1077,
-								1077
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 703.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "sass/screen.sass",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1922,
+						"buffer_size": 1126,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								985,
-								985
+								437,
+								437
 							]
 						],
 						"settings":
@@ -612,38 +622,182 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 8.0,
+						"translation.y": 240.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "sass/_colors.sass",
+					"buffer": 3,
+					"file": "sass/_stride.sass",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 146,
+						"buffer_size": 112,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								112,
+								112
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/Ruby Haml.tmLanguage"
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "sass/_home.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1278,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								141,
+								141
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 19.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "sass/_layout.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "sass/_elements.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "sass/_type.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1060,
+								1060
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "sass/_colors.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								219,
+								219
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
 					"type": "text"
 				}
 			]
@@ -651,7 +805,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 25.0
+		"height": 23.0
 	},
 	"input":
 	{
@@ -688,7 +842,7 @@
 	"project": "portfolio.sublime-project",
 	"replace":
 	{
-		"height": 46.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
